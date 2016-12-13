@@ -1,0 +1,2 @@
+json.extract! car, :id, :make_id, :doors, :ext_color, :int_color, :year, :owners, :transmission, :fuel, :description, :hp, :engine, :price, :total_km, :created_at, :updated_at
+json.url car_url(car, format: :json)

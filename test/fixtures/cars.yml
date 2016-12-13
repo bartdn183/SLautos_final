@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make_id: 1
+  doors: 1
+  ext_color: MyString
+  int_color: MyString
+  year: 1
+  owners: 1
+  transmission: MyString
+  fuel: MyString
+  description: MyText
+  hp: 1
+  engine: MyString
+  price: 9.99
+  total_km: 1
+
+two:
+  make_id: 1
+  doors: 1
+  ext_color: MyString
+  int_color: MyString
+  year: 1
+  owners: 1
+  transmission: MyString
+  fuel: MyString
+  description: MyText
+  hp: 1
+  engine: MyString
+  price: 9.99
+  total_km: 1
